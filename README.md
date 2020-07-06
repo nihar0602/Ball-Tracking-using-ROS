@@ -27,7 +27,7 @@ Initially, the project was offered in one of the online MOOC course offered by P
 
 * Download all the files in one folder and name in `topic03_opencv`
 * Copy and paste the folder in your catkin workspace. (e.g `..\catkin_ws\src\`)
-* Once pasted, go into catkin workspace. (`..\catkin_ws\`)
+* Once completed, go into catkin workspace. (`..\catkin_ws\`)
 * Open the terminal in the current directory(`..\catkin_ws\`) and compile the file using:
 > catkin_ws
 * Once done, open another terminal and run `roscore`
