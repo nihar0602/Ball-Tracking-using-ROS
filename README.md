@@ -4,7 +4,7 @@
   <b> Personal Project </b>
 </p>
 
-<img src="results.gif" alt="result" width="1024" height="400"> <br>
+<img src="results.gif" alt="result" width="1024" height="500"> <br>
 
 ### Ball Tracking using ROS and OpenCV:
 <img src="include/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
