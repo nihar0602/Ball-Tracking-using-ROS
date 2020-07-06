@@ -43,6 +43,7 @@ Initially, the project was offered in one of the online MOOC course offered by P
  * ROS MELODIC.
  * UBUNTU 18.04 LTS.
  * OPENCV 3.4.2 or later version.
+* CVBRIDGE
  * USB_CAM ROS PACKAGE.
 
 
